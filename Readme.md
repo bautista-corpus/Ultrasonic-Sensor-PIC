@@ -8,7 +8,7 @@ Este programa implementa:
 
 - La medicion de distancia utilizando el sensor ultrasonico SR-04
 
-    - *Se utiliza **Timer2** junto **T2Interrupt** con el modo **GATE** configurado
+    - *Se utiliza **Timer2** junto **T2Interrupt** con el modo **GATE** configurado*
 
 ### Materiales
 - dsPIC30F4013
